@@ -1,0 +1,2 @@
+file1.txt:this is a test error text
+file2.txt:Another test text with error
